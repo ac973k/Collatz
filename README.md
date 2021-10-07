@@ -8,13 +8,14 @@ Run ./collatz num, where num - number. Example: ./collatz 3
 Iteration data and final result saved to csv file with named number. Example: 3.csv
 Example file for number 3:
 
-Number,Current Iteration,All Iterations
-3,0
-10,1
-5,2
-16,3
-8,4
-4,5
-2,6
-1,7
-3, ,7
+| Number       | Current Iteration | All Iterations |
+| ------------ |:-----------------:| --------------:|
+| 3            | 0                 |                |
+| 10           | 1                 |                |
+| 5            | 2                 |                |
+| 16           | 3                 |                |
+| 8            | 4                 |                |
+| 4            | 5                 |                |
+| 2            | 6                 |                |
+| 1            | 7                 |                |
+| 3            |                   | 7              |
